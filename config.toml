@@ -4,7 +4,7 @@ publishDir = "docs"
 theme = "LoveIt"
 
 # 网站标题
-title = "我的全新 Hugo 网站"
+title = "S千的Hugo网站"
 
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
@@ -13,11 +13,23 @@ languageName = "简体中文"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 
+# 默认每页列表显示的文章数目
+paginate = 12
+
+# 是否使用 robots.txt
+enableRobotsTXT = true
+# 是否使用 git 信息
+enableGitInfo = true
+# 是否使用 emoji 代码
+enableEmoji = true
+
+# 忽略一些构建错误
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Star"
+  email = "2785686542@qq.com"
 
 # 菜单配置
 [menu]
