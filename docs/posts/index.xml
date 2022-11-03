@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 我的全新 Hugo 网站</title>
+        <link>https://enterityk.github.io/posts/</link>
+        <description>All Posts | 我的全新 Hugo 网站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 21 Sep 2022 10:14:31 &#43;0800</lastBuildDate><atom:link href="https://enterityk.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇博客</title>
+    <link>https://enterityk.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+    <pubDate>Wed, 21 Sep 2022 10:14:31 &#43;0800</pubDate>
+    <author>xxxx</author>
+    <guid>https://enterityk.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+    <description><![CDATA[l]]></description>
+</item>
+</channel>
+</rss>
